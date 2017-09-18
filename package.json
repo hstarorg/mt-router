@@ -1,0 +1,32 @@
+{
+  "name": "mt-router",
+  "version": "0.0.1",
+  "description": "The multi tab hash router for vue.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hstarorg/mt-router.git"
+  },
+  "keywords": [
+    "Multi",
+    "Tabs",
+    "Hash",
+    "Router",
+    "Vue"
+  ],
+  "author": "Jay.M.Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hstarorg/mt-router/issues"
+  },
+  "homepage": "https://github.com/hstarorg/mt-router#readme",
+  "devDependencies": {
+    "vue": "^2.4.4"
+  }
+}
